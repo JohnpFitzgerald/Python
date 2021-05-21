@@ -3,7 +3,7 @@
 Created on Tue Apr 14 14:16:53 2020
 
 
-@author: John fitzgerald r00156081
+@author: John fitzgerald
 
 Assignment 2 - Task 2
 
