@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-"""Second assessment Programming for Data Analytic """
 # Please write your name and student ID:
 #John Fitzgerald
-#r00156081
 
 import pandas as pd
 import numpy as np
