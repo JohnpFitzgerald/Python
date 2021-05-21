@@ -9,7 +9,7 @@ Created on Sat Jun 27 12:53:36 2020
 ###############################################
 # Please write your name and student ID:
 #John Fitzgerald
-#r00156081
+
 ###############################################
 
 #All questions attempted. I have set working folder as C:\CIT\ - it has the 
