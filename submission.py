@@ -8,7 +8,7 @@ Created on Sat Jun 27 12:53:36 2020
 # -*- coding: utf-8 -*-"""Repeat Exam 2020 Programming for Data Analytic """
 # Please write your name and student ID:
 #John Fitzgerald
-#r00156081
+#
 #import libraries
 import pandas as pd
 # Load libraries
