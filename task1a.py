@@ -1,7 +1,7 @@
 """
 Created on Mon Apr 13 16:09:30 2020
 
-@author: Jfitz r00156081
+@author: Jfitz 
 
 Assignment 2 - Task 1
 
