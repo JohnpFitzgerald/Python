@@ -7,7 +7,7 @@ Created on Mon Apr 13 17:27:32 2020
 
 
 # Easter Project Modular Programming
-# John Fitzgerald R00156081
+# John Fitzgerald
 # managing the contents of a file in Lists
 # Using git as my VCS
 #
