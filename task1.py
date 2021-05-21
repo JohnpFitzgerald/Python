@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 12 23:18:38 2020
 
-@author: John Fitzgerald r00156081
+@author: John Fitzgerald 
 """
 #Task 1 Write 3 functions to perform tests on a list of string items
 
