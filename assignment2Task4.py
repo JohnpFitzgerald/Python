@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 15 16:23:24 2020
 
-@author: Jfitz r00156081
+@author: Jfitz
 
 Assignment 2 - Task 4
 
